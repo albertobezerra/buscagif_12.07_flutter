@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.black12,
         centerTitle: true,
         title: Image.network(
-            'https://developers.giphy.com/static/img/dev-logo-lg.7404c00322a8.gif'),
+            'https://developers.giphy.com/branch/master/static/header-logo-0fec0225d189bc0eae27dac3e3770582.gif'),
       ),
       backgroundColor: Colors.black38,
       body: Column(
